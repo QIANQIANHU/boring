@@ -15,3 +15,11 @@ p.intro {
    width: 648px;
    background-color: powderblue;
  }
+
+.boring {
+  color: pink;
+}
+
+.tired {
+  color: blue;
+}
